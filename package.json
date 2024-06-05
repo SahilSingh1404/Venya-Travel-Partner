@@ -9,23 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@emotion/react": "^11.11.1",
-    "@emotion/styled": "^11.11.0",
-    "@mui/icons-material": "^5.14.9",
-    "@mui/material": "^5.14.15",
-    "@mui/styles": "^5.14.15",
-    "@mui/x-data-grid": "^6.16.3",
-    "eslint": "8.49.0",
-    "eslint-config-next": "13.4.19",
-    "flowbite": "^1.8.1",
-    "next": "13.4.19",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.15.19",
+    "@mui/material": "^5.15.19",
+    "@mui/styles": "^5.15.19",
+    "@mui/x-data-grid": "^7.6.1",
+    "eslint": "9.4.0",
+    "eslint-config-next": "14.2.3",
+    "flowbite": "^2.3.0",
+    "next": "14.2.3",
     "next-images": "^1.8.5",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-scrollbars-custom": "^4.1.1",
     "tailwind": "^4.0.0"
   },
   "devDependencies": {
-    "tailwindcss": "^3.3.3"
+    "tailwindcss": "^3.4.4"
   }
 }
